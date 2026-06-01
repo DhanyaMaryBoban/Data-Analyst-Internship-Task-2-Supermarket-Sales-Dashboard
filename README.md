@@ -1,5 +1,4 @@
 # 📊 Data-Analyst-Internship-Task-2-Data Visualization and Storytelling
-**Supermarket-Sales-Dashboard**
 
 🎯 Objective
 - To create visualizations that convey a compelling story using Power BI.
