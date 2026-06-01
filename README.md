@@ -14,7 +14,8 @@
   - From members or walk in customers the supermarket gain the highest revenue?
   - Examine correlation between rewards and sales.
  
-**🔎 Findings**
+**🔎 Key Findings**
+
 **1. Executive Summary**
 - Net Sales: $1.63M
 - Profit After Tax: $1.62M
